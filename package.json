@@ -1,0 +1,15 @@
+{
+  "name": "power-up-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "Energizing theme with magenta, blue, and green.",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/erickmerchant/power-up-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
